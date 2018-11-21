@@ -5,6 +5,7 @@ In particular it does not include correlated two-qubit errors during the CNOT ga
 To avoid hook errors it uses the improvements suggested in [4].
 The code layout and circuit are for example illustrated in figure 1 of [3].
 
+The version that is discussed in Ref. [3] is on branch arXiv1705p07855.
 
 ## How to use the code to generate the data used in Figure 3 of Ref. [3]
 1) In circuit_model.py, set the path (db_path) where the databases with the
@@ -32,7 +33,7 @@ The code layout and circuit are for example illustrated in figure 1 of [3].
 
 
 ## References
-[1] H. Bombin, and M. A. Martin-Delgado, Phys. Rev. A 76, 012305 (2007)  
+[1] H. Bombin and M. A. Martin-Delgado, Phys. Rev. A 76, 012305 (2007)  
 [2] A. G. Fowler, M. Mariantoni, J. M. Martinis, and A. N. Cleland, Phys. Rev. A 86, 032324 (2012)  
-[3] P. Baireuther, T. E. O'Brien, B. Tarasinski, C. W. J. Beenakker, arXiv:1705.07855 (2017)  
+[3] P. Baireuther, T. E. O'Brien, B. Tarasinski, and C. W. J. Beenakker, Quantum 2, 48 (2018)  
 [4] Y. Tomita and K. M. Svore, Phys. Rev. A 90, 062320 (2014)
