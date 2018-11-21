@@ -12,11 +12,11 @@ layout and circuit are for example illustrated in figure 1 of [3].
 
 References
 ----------
-[1] H. Bombin, and M. A. Martin-Delgado, Phys. Rev. A 76, 012305 (2007)
+[1] H. Bombin and M. A. Martin-Delgado, Phys. Rev. A 76, 012305 (2007)
 [2] A. G. Fowler, M. Mariantoni, J. M. Martinis, and A. N. Cleland,
     Phys. Rev. A 86, 032324 (2012)
-[3] P. Baireuther, T. E. O'Brien, B. Tarasinski, C. W. J. Beenakker,
-    arXiv:1705.07855 (2017)
+[3] P. Baireuther, T. E. O'Brien, B. Tarasinski, and C. W. J. Beenakker,
+    Quantum 2, 48 (2018)
 [4] Y. Tomita and K. M. Svore, Phys. Rev. A 90, 062320 (2014)
 """
 
